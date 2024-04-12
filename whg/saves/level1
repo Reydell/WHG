@@ -1,0 +1,165 @@
+enemylinear 920 760 2 11.5 9.5 20.5 9.5
+enemylinear 1640 840 2 20.5 10.5 11.5 10.5
+enemylinear 920 920 2 11.5 11.5 20.5 11.5
+enemylinear 1640 1000 2 20.5 12.5 11.5 12.5
+player 680 880 195 53 29
+boundary 480 560
+boundary 480 640
+boundary 480 720
+boundary 480 800
+boundary 480 880
+boundary 480 960
+boundary 480 1040
+boundary 480 1120
+boundary 560 560
+start 560 640
+start 560 720
+start 560 800
+start 560 880
+start 560 960
+start 560 1040
+boundary 560 1120
+boundary 640 560
+start 640 640
+start 640 720
+start 640 800
+start 640 880
+start 640 960
+start 640 1040
+boundary 640 1120
+boundary 720 560
+start 720 640
+start 720 720
+start 720 800
+start 720 880
+start 720 960
+start 720 1040
+boundary 720 1120
+boundary 800 560
+boundary 800 640
+boundary 800 720
+boundary 800 800
+boundary 800 880
+boundary 800 960
+standard 800 1040 252 248 254
+boundary 800 1120
+boundary 880 560
+boundary 880 640
+standard 880 720 232 226 250
+standard 880 800 252 248 254
+standard 880 880 232 226 250
+standard 880 960 252 248 254
+standard 880 1040 232 226 250
+boundary 880 1120
+boundary 960 560
+boundary 960 640
+standard 960 720 252 248 254
+standard 960 800 232 226 250
+standard 960 880 252 248 254
+standard 960 960 232 226 250
+boundary 960 1040
+boundary 960 1120
+boundary 1040 560
+boundary 1040 640
+standard 1040 720 232 226 250
+standard 1040 800 252 248 254
+standard 1040 880 232 226 250
+standard 1040 960 252 248 254
+boundary 1040 1040
+boundary 1040 1120
+boundary 1120 560
+boundary 1120 640
+standard 1120 720 252 248 254
+standard 1120 800 232 226 250
+standard 1120 880 252 248 254
+standard 1120 960 232 226 250
+boundary 1120 1040
+boundary 1120 1120
+boundary 1200 560
+boundary 1200 640
+standard 1200 720 232 226 250
+standard 1200 800 252 248 254
+standard 1200 880 232 226 250
+standard 1200 960 252 248 254
+boundary 1200 1040
+boundary 1200 1120
+boundary 1280 560
+boundary 1280 640
+standard 1280 720 252 248 254
+standard 1280 800 232 226 250
+standard 1280 880 252 248 254
+standard 1280 960 232 226 250
+boundary 1280 1040
+boundary 1280 1120
+boundary 1360 560
+boundary 1360 640
+standard 1360 720 232 226 250
+standard 1360 800 252 248 254
+standard 1360 880 232 226 250
+standard 1360 960 252 248 254
+boundary 1360 1040
+boundary 1360 1120
+boundary 1440 560
+boundary 1440 640
+standard 1440 720 252 248 254
+standard 1440 800 232 226 250
+standard 1440 880 252 248 254
+standard 1440 960 232 226 250
+boundary 1440 1040
+boundary 1440 1120 
+boundary 1520 560
+boundary 1520 640 
+standard 1520 720 232 226 250
+standard 1520 800 252 248 254
+standard 1520 880 232 226 250
+standard 1520 960 252 248 254
+boundary 1520 1040
+boundary 1520 1120
+boundary 1600 560
+standard 1600 640 232 226 250
+standard 1600 720 252 248 254
+standard 1600 800 232 226 250
+standard 1600 880 252 248 254
+standard 1600 960 232 226 250
+boundary 1600 1040
+boundary 1600 1120
+boundary 1680 560
+standard 1680 640 252 248 254
+boundary 1680 720
+boundary 1680 800
+boundary 1680 880
+boundary 1680 960
+boundary 1680 1040
+boundary 1680 1120
+boundary 1760 560
+finish 1760 640
+finish 1760 720
+finish 1760 800
+finish 1760 880
+finish 1760 960
+finish 1760 1040
+boundary 1760 1120
+boundary 1840 560
+finish 1840 640
+finish 1840 720
+finish 1840 800
+finish 1840 880
+finish 1840 960
+finish 1840 1040
+boundary 1840 1120
+boundary 1920 560
+finish 1920 640
+finish 1920 720
+finish 1920 800
+finish 1920 880
+finish 1920 960
+finish 1920 1040
+boundary 1920 1120
+boundary 2000 560
+boundary 2000 640
+boundary 2000 720
+boundary 2000 800
+boundary 2000 880
+boundary 2000 960
+boundary 2000 1040
+boundary 2000 1120
